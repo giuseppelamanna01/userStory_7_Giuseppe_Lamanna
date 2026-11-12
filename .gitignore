@@ -6,6 +6,7 @@
 .phpactor.json
 .phpunit.result.cache
 /.codex
+/.google_credential_ottobre2026.json
 /.cursor/
 /.idea
 /.nova
